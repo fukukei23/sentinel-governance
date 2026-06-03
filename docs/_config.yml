@@ -1,0 +1,15 @@
+title: Sentinel Governance
+description: AIシステム設計ガバナンスフレームワーク — 機能ショーケース
+remote_theme: just-the-docs/just-the-docs
+
+baseurl: /sentinel-governance
+url: https://fukukei23.github.io
+
+color_scheme: light
+search_enabled: true
+
+aux_links:
+  "📂 GitHub リポジトリ":
+    - "https://github.com/fukukei23/sentinel-governance"
+
+nav_enabled: true
