@@ -24,11 +24,16 @@ AIシステムの設計と開発におけるガバナンスを構造化するフ
 |---|---|
 | `Sentinel_Governance_Charter.md` | 基礎原則とガバナンスフレームワーク |
 | `GOVERNANCE_LAYERS.md` | 4層構造の詳細説明 |
-| `AI_DEVELOPMENT_CONSTITUTION_OVERVIEW.md` | AI開発憲法の概要 |
+| `AI_DEVELOPMENT_CONSTITUTION_OVERVIEW.md` | AI開発宪法の概要 |
 
 ## 技術スタック
 
 - Markdown（ドキュメンテーション）のみ
+
+## 🌐 関連リンク
+
+- [AASDF (AI-Augmented System Design Framework)](https://github.com/StructSec/ai-augmented-system-design-framework)
+- [STIT-IRG (Security, Trustworthiness, Interoperability, Transparency)](https://stit-irg.readthedocs.io/)
 
 ---
 
