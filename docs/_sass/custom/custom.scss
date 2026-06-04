@@ -17,19 +17,23 @@
   text-decoration: none !important;
 }
 
-// 本文内の .btn-blue を見やすく
-.btn-blue {
+// 本文内の「GitHub リポジトリ →」ボタン
+// kramdown {: .btn .btn-blue} は <strong> に付くので a も含めてスタイル
+.btn.btn-blue {
+  display: inline-block !important;
   background-color: #24292f !important;
-  color: #fff !important;
-  border: none !important;
   border-radius: 6px !important;
   padding: 8px 18px !important;
   font-weight: 600 !important;
   transition: background-color 0.2s ease !important;
 }
 
-.btn-blue:hover {
-  background-color: #3b82f6 !important;
+.btn.btn-blue a {
   color: #fff !important;
+  text-decoration: none !important;
+}
+
+.btn.btn-blue:hover {
+  background-color: #3b82f6 !important;
   text-decoration: none !important;
 }
