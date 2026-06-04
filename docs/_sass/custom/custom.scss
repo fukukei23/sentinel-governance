@@ -3,13 +3,17 @@
   font-size: 0.95rem !important;
   font-weight: 700 !important;
   padding: 6px 16px !important;
+  background-color: #0969da !important;
+  color: #fff !important;
   border: 2px solid #0969da !important;
   border-radius: 8px !important;
   transition: background-color 0.15s ease, color 0.15s ease !important;
+  text-decoration: none !important;
 }
 
 .aux-nav .site-button:hover {
-  background-color: #0969da !important;
+  background-color: #0550ae !important;
+  border-color: #0550ae !important;
   color: #fff !important;
   text-decoration: none !important;
 }
