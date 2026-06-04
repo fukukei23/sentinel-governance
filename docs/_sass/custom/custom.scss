@@ -16,3 +16,20 @@
   color: #fff !important;
   text-decoration: none !important;
 }
+
+// 本文内の .btn-blue を見やすく
+.btn-blue {
+  background-color: #24292f !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 8px 18px !important;
+  font-weight: 600 !important;
+  transition: background-color 0.2s ease !important;
+}
+
+.btn-blue:hover {
+  background-color: #3b82f6 !important;
+  color: #fff !important;
+  text-decoration: none !important;
+}
